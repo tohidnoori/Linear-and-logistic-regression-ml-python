@@ -1,10 +1,9 @@
-# Linear regression Ml-Python
+# Linear Regression Ml-Python
 
 **Linear regression** is a type of supervised machine learning algorithm that computes the linear relationship between the dependent variable and one or more independent features by fitting a 
 <br/>
 <br/>
-For this experiment, I used Jupyter Notebook, a web-based interactive computing platform, and the well-known Python module scikit-learn.<br/>
-<br/>
+For this experiment, I used Jupyter Notebook, a web-based interactive computing platform, and the well-known Python module scikit-learn.
 - - - -
 #### These statistics are being examined right now: ####
   * <a  href="https://archive.ics.uci.edu/dataset/45/heart+disease">Heart Disease<a/>
